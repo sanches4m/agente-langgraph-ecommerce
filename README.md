@@ -121,5 +121,5 @@ As evals medem o que a IA decide, não o que a ferramenta faz: nada é executado
 
 ## Autor
 
-Leonardo Pereira Sanches. Projeto individual: levantamento com a operação, arquitetura,
+Leonardo P Sanches. Projeto individual: levantamento com a operação, arquitetura,
 desenvolvimento, testes, deploy e acompanhamento em produção.

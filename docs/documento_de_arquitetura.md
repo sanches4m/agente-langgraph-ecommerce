@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | Situação | Em produção numa loja de semijoias da Shopee, revisão 1 |
-| Autor | Leonardo Pereira Sanches |
+| Autor | Leonardo P Sanches |
 | Atualizado | 04/11/2026 |
 | Leitura | Quem vai programar, manter ou avaliar o sistema |
 
